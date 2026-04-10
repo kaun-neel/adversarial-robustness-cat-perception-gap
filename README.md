@@ -76,7 +76,7 @@ The study explores how subtle input modifications can significantly degrade mode
 
 ## 📄 Research Paper
 
-📥 [Download Paper](./paper.pdf)
+📥 [Download Paper](./Cat_Adversarial.pdf)
 
 ---
 
