@@ -2,6 +2,7 @@
 # Adversarial Robustness and the Cat-to-Object Perception Gap in Deep Learning Models
 
 [![DOI](https://zenodo.org/badge/1207143752.svg)](https://doi.org/10.5281/zenodo.19499543)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0001--0372--0789-green?logo=orcid)](https://orcid.org/0009-0001-0372-0789)
 
 ## Overview
 
